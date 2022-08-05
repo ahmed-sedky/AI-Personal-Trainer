@@ -1,4 +1,4 @@
-# Volume Hand Control
+# AI Personal Trainer
 Author: Ahmed Hossam Sedky
 ----
 ## Libraries versions
